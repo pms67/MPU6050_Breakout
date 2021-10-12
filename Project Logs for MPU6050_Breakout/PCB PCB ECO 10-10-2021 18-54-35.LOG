@@ -1,0 +1,72 @@
+Added Component: Designator=C1(CAP_0402)
+Added Component: Designator=C2(CAP_0402)
+Added Component: Designator=C3(CAP_0402)
+Added Component: Designator=C4(CAP_0402)
+Added Component: Designator=C5(CAP_0402)
+Added Component: Designator=C6(CAP_0402)
+Added Component: Designator=FB1(FB_0402)
+Added Component: Designator=J1(SM06B-GHS-TB)
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SM06B-GHS-TB"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES_0402)
+Added Component: Designator=R2(RES_0402)
+Added Component: Designator=U1(IS-QFN-24_V)
+Add component (AddParameter): Name = "Category"; Value = "Sensors,Transducers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://datasheet.octopart.com/MPU-6050-InvenSense-datasheet-14421344.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 3.3, 05/2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dynamic Catalog"; Value = "MPU-6000™Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Multifunction"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Featured Product"; Value = "MPU-60506-Axis,IntegratedI²CSolution"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "InvenSense"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.invensense.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "MPU-6000™Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "1428-1007-2
+MPU6050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Digital"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sensor Type"; Value = "MotionTracking"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "5,000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit PriceUSD"; Value = "Digital"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3_CONN Pin=C1-1
+Added Pin To Net: NetName=+3V3_CONN Pin=FB1-1
+Added Pin To Net: NetName=+3V3_CONN Pin=J1-1
+Added Net: Name=+3V3_CONN
+Added Pin To Net: NetName=+3V3 Pin=C2-1
+Added Pin To Net: NetName=+3V3 Pin=C3-1
+Added Pin To Net: NetName=+3V3 Pin=C5-1
+Added Pin To Net: NetName=+3V3 Pin=FB1-2
+Added Pin To Net: NetName=+3V3 Pin=R1-2
+Added Pin To Net: NetName=+3V3 Pin=R2-2
+Added Pin To Net: NetName=+3V3 Pin=U1-8
+Added Pin To Net: NetName=+3V3 Pin=U1-13
+Added Net: Name=+3V3
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-9
+Added Pin To Net: NetName=GND Pin=U1-11
+Added Pin To Net: NetName=GND Pin=U1-18
+Added Pin To Net: NetName=GND Pin=U1-25
+Added Net: Name=GND
+Added Pin To Net: NetName=I2C_SCL Pin=J1-2
+Added Pin To Net: NetName=I2C_SCL Pin=R1-1
+Added Pin To Net: NetName=I2C_SCL Pin=U1-23
+Added Net: Name=I2C_SCL
+Added Pin To Net: NetName=I2C_SDA Pin=J1-4
+Added Pin To Net: NetName=I2C_SDA Pin=R2-1
+Added Pin To Net: NetName=I2C_SDA Pin=U1-24
+Added Net: Name=I2C_SDA
+Added Pin To Net: NetName=IMU_CPOUT Pin=C6-1
+Added Pin To Net: NetName=IMU_CPOUT Pin=U1-20
+Added Net: Name=IMU_CPOUT
+Added Pin To Net: NetName=IMU_INT Pin=J1-5
+Added Pin To Net: NetName=IMU_INT Pin=U1-12
+Added Net: Name=IMU_INT
+Added Pin To Net: NetName=IMU_REG Pin=C4-1
+Added Pin To Net: NetName=IMU_REG Pin=U1-10
+Added Net: Name=IMU_REG

@@ -1,0 +1,7 @@
+Comment,Description,Designator,Footprint,LibRef,Quantity,LCSC Part #
+"100n","Capacitor SMD 0402 10V","C1, C2, C3, C4","CAP_0402","CAP_0402_10V","4","C1525"
+"10n","Capacitor SMD 0402 10V","C5","CAP_0402","CAP_0402_10V","1","C15195"
+"2n2","Capacitor SMD 0402 10V","C6","CAP_0402","CAP_0402_10V","1","C1531"
+"100R","Ferrite Bead SMD 0402","FB1","FB_0402","FB_0402","1","C76804"
+"2k2","Resistor SMD 0402","R1, R2","RES_0402","RES_0402","2","C25879"
+"MPU-6050","3-Axis Gyroscope, Accelerometer and a Digital Motion Processor(TM) (DMP), 2.375 to 3.46 V, -40 to 85 degC, 24-Pin QFN, RoHS, Tape and Reel","U1","IS-QFN-24_V","CMP-1753-00002-2","1","C24112"
